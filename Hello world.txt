@@ -1,2 +1,4 @@
 Print("Hello world")
 Print("Hello every")
+print("Hello")
+Print("Lol")
